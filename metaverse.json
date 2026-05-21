@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the metaverse often described as in the document?",
+    "choices": [
+      "A single video game made by one company",
+      "A collective virtual shared space combining physical and digital realities",
+      "A new brand of VR headset",
+      "A simple 2D chat room on the internet"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which technology is most closely associated with accessing the metaverse?",
+    "choices": [
+      "Virtual reality headsets and immersive interfaces",
+      "Traditional television remotes",
+      "Fax machines",
+      "USB flash drives"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "According to the student sheet, which company rebranded itself as 'Meta' to focus on the metaverse?",
+    "choices": [
+      "Apple",
+      "Microsoft",
+      "Facebook",
+      "Google"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is one potential benefit of the metaverse mentioned in the document?",
+    "choices": [
+      "Limiting communication to text messages only",
+      "New forms of social interaction, work, and entertainment in immersive worlds",
+      "Reducing access to online education",
+      "Eliminating all forms of remote collaboration"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which concern about the metaverse is highlighted in the text?",
+    "choices": [
+      "Too much paper being used",
+      "Increased risks for privacy and data collection",
+      "Lack of internet connections globally",
+      "Too few companies investing in technology"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What happens to your 'avatar' in the metaverse?",
+    "choices": [
+      "It is only used to send emails",
+      "It represents you as a digital character or presence in virtual spaces",
+      "It replaces your physical body in the real world",
+      "It is always controlled by the platform, not by you"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is mentioned as a possible use of the metaverse in education or work?",
+    "choices": [
+      "Attending 3D virtual classes or meetings with other avatars",
+      "Sending physical letters faster",
+      "Replacing all books with radio",
+      "Blocking video conferencing"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What warning is given about spending time in the metaverse?",
+    "choices": [
+      "People might become too good at sports",
+      "There is a risk of spending more time in virtual worlds than in real life",
+      "It forces people to live outdoors",
+      "It automatically limits your screen time"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which economic aspect of the metaverse is mentioned in the student document?",
+    "choices": [
+      "The metaverse will remove all jobs",
+      "Virtual economies where users can buy, sell, or create digital goods",
+      "A total ban on digital payments",
+      "Only governments can own virtual land"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which expression from the sheet is closest in meaning to 'being constantly surrounded by digital content'?",
+    "choices": [
+      "Digital immersion",
+      "Physical isolation",
+      "Paper overload",
+      "Network blackout"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which potential danger related to behaviour is raised in the document?",
+    "choices": [
+      "The fear of learning foreign languages",
+      "Harassment or toxic behaviour transferring into virtual worlds",
+      "Overuse of paper notebooks",
+      "Shortage of video games"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What question from the worksheet invites students to think critically about identity in the metaverse?",
+    "choices": [
+      "\"How many VR games do you own?\"",
+      "\"Would you behave differently behind an avatar than in real life?\"",
+      "\"What is your favourite console?\"",
+      "\"How often do you watch TV?\""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which risk linked to companies in the metaverse is mentioned?",
+    "choices": [
+      "Companies will stop using the internet",
+      "Big tech firms could gain even more control over users' data and experiences",
+      "Only small start‑ups can create content",
+      "No adverts will exist in virtual spaces"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of these is a possible advantage of the metaverse for social life, according to the sheet?",
+    "choices": [
+      "Meeting people only by email",
+      "Connecting with friends or communities all over the world in shared virtual spaces",
+      "Avoiding all contact with others",
+      "Blocking real‑time communication"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of question does the teacher ask to start a debate on the metaverse?",
+    "choices": [
+      "If the metaverse becomes common, will it improve or damage real‑life relationships?",
+      "How many likes do you have on Instagram?",
+      "What is the price of your smartphone?",
+      "Which cinema do you prefer?"
+    ],
+    "answer": 0
+  }
+]

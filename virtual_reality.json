@@ -1,0 +1,292 @@
+[
+  {
+    "question": "In the BBC Click video, how can a Vobling user customise a fire training scenario?",
+    "choices": [
+      "By changing the headset model",
+      "By specifying details such as room size, fire location and type",
+      "By modifying the colour of the extinguisher only",
+      "By selecting a different soundtrack"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In the VR fire‑training solution, what is special about the extinguisher that Vobling provides?",
+    "choices": [
+      "It is a real extinguisher that actually sprays water",
+      "It is a plastic toy without any sensors",
+      "It is a tracked physical extinguisher whose position and trigger are detected in VR",
+      "It is controlled only with voice commands"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In the video, the expression 'on the go' most nearly means:",
+    "choices": [
+      "While you are travelling or moving around",
+      "Without paying",
+      "In the office only",
+      "At night only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How did RivR create its VR training environments for the emergency services?",
+    "choices": [
+      "By drawing them entirely by hand",
+      "By scanning real‑world locations with 360° cameras and recreating them in VR",
+      "By using only text descriptions from manuals",
+      "By buying pre‑made game levels"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to Callum Faint, in what way is virtual reality useful for training?",
+    "choices": [
+      "It completely replaces all physical drills",
+      "It allows safe repetition of dangerous scenarios and improves decision‑making under pressure",
+      "It mainly entertains the trainees",
+      "It reduces the need for any instructor"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How does VR help surgeons and nurses in the video?",
+    "choices": [
+      "By letting them play games during breaks",
+      "By simulating operations so they can practise procedures before treating real patients",
+      "By automatically writing medical reports",
+      "By replacing hospital meetings with chat rooms"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What can students do thanks to the VR multi‑user system described?",
+    "choices": [
+      "Connect only one after another to the same scenario",
+      "Join the same virtual environment together and interact or train as a group",
+      "Share only text messages inside VR",
+      "Control the teacher’s avatar remotely"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the hospital in Taiwan trialling with VR according to the worksheet?",
+    "choices": [
+      "VR‑based pain relief and distraction for patients",
+      "A VR cinema for visitors",
+      "A VR system to replace all nurses",
+      "A VR game room for children only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In 'normal' taser training for police officers, what typically happens?",
+    "choices": [
+      "Officers only watch a video demonstration",
+      "Officers shoot at paper targets in a classroom",
+      "Officers fire at static mannequins without realistic reactions",
+      "Officers use real tasers on volunteers"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is one flaw of normal taser training that VR can improve?",
+    "choices": [
+      "It is too immersive",
+      "It lacks realistic movement and decision‑making scenarios, which VR can simulate safely",
+      "It uses too many computers",
+      "It allows too many people to train at once"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which key word from the text means 'the relationship between smells and place'?",
+    "choices": [
+      "augmented",
+      "smellscaping",
+      "customization",
+      "attendee"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A ______ atmosphere or occasion is serious or sad.",
+    "choices": [
+      "awesome",
+      "cavernous",
+      "sombre",
+      "augmented"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If you pay your ______, you go to someone’s funeral.",
+    "choices": [
+      "ship",
+      "respects",
+      "attendee",
+      "smellscaping"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A ______ room or building is very large and dark.",
+    "choices": [
+      "cavernous",
+      "awesome",
+      "augmented",
+      "alight"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If you ______ people out, you move them to another place.",
+    "choices": [
+      "attend",
+      "alight",
+      "ship",
+      "smellscape"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "An ______ is someone who is present at an event or activity.",
+    "choices": [
+      "attendee",
+      "alight",
+      "awesome",
+      "cavernous"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "An ______ event or thing is extremely good or impressive.",
+    "choices": [
+      "augmented",
+      "awesome",
+      "sombre",
+      "cavernous"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which key word completes: '______ reality is the technology of putting computer‑generated images or information on top of a real view'?",
+    "choices": [
+      "Attendee",
+      "Smellscaping",
+      "Augmented",
+      "Customization"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If you ______, you get off a train, bus, or other vehicle.",
+    "choices": [
+      "ship",
+      "alight",
+      "respect",
+      "customize"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "______ is adapting a product so that it meets the specific requirements of the user.",
+    "choices": [
+      "Smellscaping",
+      "Customization",
+      "Augmentation",
+      "Respecting"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why was there a sombre atmosphere in parts of London in the article about the Expo?",
+    "choices": [
+      "Because of heavy rain during the expo",
+      "Because visitors were unhappy with VR rides",
+      "Because people were paying their respects to the Queen after her death",
+      "Because a theme park had closed permanently"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How long did it take to print the nine‑foot‑tall alien mentioned in the article?",
+    "choices": [
+      "A few minutes",
+      "Several hours",
+      "A few days",
+      "It is not specified at all"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What was present in vast quantities at the convention centre?",
+    "choices": [
+      "Traditional wooden rides only",
+      "Virtual‑reality headsets and experiences",
+      "Food trucks",
+      "Live animals"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to Mark Beumers, what will become crucial to the theme‑park experience?",
+    "choices": [
+      "Paper maps and printed tickets",
+      "Static queues with no interaction",
+      "Interactivity made possible by technology such as VR and AR",
+      "Removing all technology from rides"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In the article, what adds delays to loading up rides when VR is used?",
+    "choices": [
+      "Cleaning the tracks",
+      "Printing 3D props",
+      "Getting headsets on and off riders",
+      "Checking paper tickets"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What gave theme‑park operators time to change their approach to VR and attractions?",
+    "choices": [
+      "A long power cut in London",
+      "The impact of Covid since 2019",
+      "A ban on rollercoasters",
+      "A new government tax on VR"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to the article, what allows riders to experience all the benefits of VR without being cut off from the real world?",
+    "choices": [
+      "Shorter queues",
+      "Headsets that are only used in the queue and boarding areas, not on the ride itself",
+      "Paper 3D glasses",
+      "Watching a video at home"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What will customization do for theme‑park guests according to Maximilian Roeser?",
+    "choices": [
+      "Make every ride identical for all visitors",
+      "Allow parks to adapt experiences to each guest’s preferences and profile",
+      "Remove the need for safety checks",
+      "Reduce the number of rides available"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to Julie Rice‑Witherell, what remains the best experience of all?",
+    "choices": [
+      "Watching a VR video at home",
+      "Riding a brand‑new rollercoaster for the first time",
+      "Waiting in a themed queue",
+      "Playing mobile games in the park"
+    ],
+    "answer": 1
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "question": "What is the main idea of the video 'Big Data – why should you care?'",
+    "choices": [
+      "Big Data only matters to scientists and not to ordinary people",
+      "Big Data can influence important decisions about people’s lives and should therefore matter to everyone",
+      "Big Data is only about storing large files on servers",
+      "Big Data is mainly used to improve video game graphics"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to the article, what is the first major way Big Data threatens privacy?",
+    "choices": [
+      "It deletes too much personal data",
+      "It gathers vast amounts of private information from individuals",
+      "It prevents people from creating online accounts",
+      "It only stores anonymous public information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to the article, what is the second major privacy problem linked to Big Data?",
+    "choices": [
+      "People are paid for sharing all their data",
+      "There are plenty of alternatives to digital services",
+      "People are often pushed into participating because modern life offers few real alternatives",
+      "Governments have stopped collecting data completely"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to the article, what is the third major reason Big Data threatens freedom and privacy?",
+    "choices": [
+      "Collected information can be abused and surveillance affects behaviour",
+      "All surveillance is always visible and temporary",
+      "People no longer use smartphones",
+      "Private data cannot be stored for long"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the difference between passive observation and active observation according to the article?",
+    "choices": [
+      "Passive observation records information without interfering, while active observation uses that information afterward to reward or punish",
+      "Passive observation is illegal, while active observation is always legal",
+      "Passive observation only happens online, while active observation only happens offline",
+      "Passive observation uses cameras, while active observation uses only microphones"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is Neuralink?",
+    "choices": [
+      "A virtual-reality gaming company",
+      "A brain–computer interface company developing implantable chips to connect the brain with computers",
+      "A medical imaging company producing X-ray machines",
+      "A cloud storage platform for hospitals"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is Neuralink trying to do?",
+    "choices": [
+      "Replace all smartphones with VR glasses",
+      "Create robots that think like humans without any brain input",
+      "Allow people, especially those with paralysis or neurological conditions, to control devices through brain signals",
+      "Train nurses through gaming consoles only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How does virtual reality help surgeons and nurses according to the video?",
+    "choices": [
+      "It replaces all real patients with virtual ones permanently",
+      "It lets them practise procedures and scenarios safely before working in real-life situations",
+      "It removes the need for medical knowledge",
+      "It is only useful for entertainment during breaks"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which two-word synonym of 'depend on' is expected in the sample questions?",
+    "choices": [
+      "rely on",
+      "look after",
+      "turn into",
+      "agree with"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the best French translation of 'deprived of'?",
+    "choices": [
+      "content de",
+      "privé de",
+      "obligé de",
+      "rempli de"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the best definition of 'to underpin'?",
+    "choices": [
+      "To remove something completely",
+      "To support or form the basis of something",
+      "To translate a text quickly",
+      "To hide private information"
+    ],
+    "answer": 1
+  }
+]

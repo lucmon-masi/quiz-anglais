@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does OSINT stand for?",
+    "choices": [
+      "Open Source Intelligence",
+      "Online Security Interface",
+      "Operational Surveillance in Networks",
+      "Official State Intelligence Network"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is an example of personal information that can often be found about you online?",
+    "choices": [
+      "Your DNA sequence",
+      "Your favourite food only",
+      "Your social media profiles and posts",
+      "Your exact medical record"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which concern fits the idea that 'OSINT is dangerous'?",
+    "choices": [
+      "It improves transparency in journalism",
+      "It helps solve crimes faster",
+      "It can lead to invasion of privacy",
+      "It allows fact‑checking of public claims"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which risk is explicitly linked to misuse of OSINT in the speaking sheet?",
+    "choices": [
+      "Tax evasion",
+      "Harassment or targeted attacks",
+      "Better customer support",
+      "Higher internet prices"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does 'misinformation / misinterpretation' refer to in the OSINT debate?",
+    "choices": [
+      "Using only official government data",
+      "Drawing wrong conclusions from open data or sharing false information",
+      "Encrypting all collected data",
+      "Restricting access to libraries"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which argument belongs to the 'OSINT is beneficial' side?",
+    "choices": [
+      "Risk of misuse and harassment",
+      "Lack of regulation",
+      "Crime investigation and solving cases",
+      "Invasion of privacy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How can OSINT support journalism according to the speaking sheet?",
+    "choices": [
+      "By hiding all information from the public",
+      "By providing data for transparency and investigations",
+      "By replacing journalists with bots",
+      "By deleting old news articles"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why is 'fact‑checking' listed as a benefit of OSINT?",
+    "choices": [
+      "Because it makes it easier to spread rumours",
+      "Because it allows people to verify claims using open sources",
+      "Because it removes all biased content automatically",
+      "Because it blocks all social media posts"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does 'lack of regulation' mean in the context of OSINT?",
+    "choices": [
+      "There are clear and strict global laws on how OSINT can be used",
+      "There are few clear rules controlling how open data can be collected and used",
+      "OSINT is completely illegal everywhere",
+      "Only governments may legally use OSINT"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which question from the sheet is meant to start a personal reflection on OSINT?",
+    "choices": [
+      "\"What kind of personal information can be found about you online?\"",
+      "\"How many OSINT tools exist today?\"",
+      "\"What is the fastest OSINT search engine?\"",
+      "\"Who invented OSINT?\""
+    ],
+    "answer": 0
+  }
+]

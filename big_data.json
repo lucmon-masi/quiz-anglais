@@ -1,0 +1,282 @@
+[
+  {
+    "question": "Which of the following is a key characteristic of Big Data mentioned in the course?",
+    "choices": [
+      "Small, structured, slow-moving datasets",
+      "Large, fast, and diverse collections of data",
+      "Only numerical data stored in spreadsheets",
+      "Only text data from books and articles"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which company is commonly cited as heavily relying on Big Data in its business model?",
+    "choices": [
+      "A local grocery store without a website",
+      "A small family‑run bakery",
+      "Streaming and e‑commerce platforms like Netflix or Amazon",
+      "A paper‑only insurance office"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What kind of benefit can Big Data bring to the medical sector according to the video 'The Era of Big Data'?",
+    "choices": [
+      "Randomly assigning treatments to patients",
+      "Improving diagnostics and treatment decisions with large‑scale medical data",
+      "Eliminating the need for doctors",
+      "Replacing hospitals with online forums"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How does the Hadoop Distributed File System (HDFS) store data?",
+    "choices": [
+      "On a single central server with no redundancy",
+      "Only in RAM across the cluster",
+      "By splitting data into blocks and replicating them across multiple nodes",
+      "By saving every file as a single huge block"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In the MapReduce paradigm, what is the main role of the 'map' phase?",
+    "choices": [
+      "Encrypting files before storage",
+      "Filtering and transforming input data into key–value pairs",
+      "Designing the user interface",
+      "Backing up the cluster configuration"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why do game designers analyse user data in online games?",
+    "choices": [
+      "To randomly ban users",
+      "To understand player behaviour and improve game design or monetisation",
+      "To delete inactive accounts automatically",
+      "To disable in‑game tutorials"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In the video 'Big Data: why should you care?', what could depend on the data other people have collected about you?",
+    "choices": [
+      "Only your school grades",
+      "Nothing important in your life",
+      "Decisions like loan approval, job offers or insurance prices",
+      "The colour of your phone case"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In the acronym DATA used in the video, what does the letter 'D' typically stand for?",
+    "choices": [
+      "Danger",
+      "Decentralisation",
+      "Diversity or variety of data sources",
+      "Deletion of records"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to 'Big Data: why should you care?', which risk is raised by the sentence 'Should we use big data to predict someone will … and treat them accordingly?'",
+    "choices": [
+      "People will stop using computers",
+      "Predictive profiling might lead to unfair or discriminatory treatment",
+      "All jobs will disappear",
+      "Everyone will get the same salary"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "During elections, how can Big Data help campaigners?",
+    "choices": [
+      "By preventing people from voting",
+      "By targeting specific voter groups with personalised political messages",
+      "By replacing political parties with algorithms",
+      "By counting the votes manually"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In the grammar section, which preposition correctly completes 'I’m looking ___ a new job'?",
+    "choices": [
+      "at",
+      "for",
+      "into",
+      "after"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which prepositional verb correctly completes 'I have to ___ for a pay rise'?",
+    "choices": [
+      "ask",
+      "ask to",
+      "ask for",
+      "ask of"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which option correctly completes 'Her boss really relies ___ her'?",
+    "choices": [
+      "in",
+      "for",
+      "on",
+      "with"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which sentence correctly uses a preposition with 'hear'?",
+    "choices": [
+      "I have never heard to this company.",
+      "I have never heard on this company.",
+      "I have never heard from this company.",
+      "I have never heard of this company."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In Westin’s definition, what is central to the concept of privacy?",
+    "choices": [
+      "Government control of all personal data",
+      "Individuals deciding when, how and to what extent information about them is shared",
+      "Making all personal information public",
+      "A complete absence of technology"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to Proposition 3.1, why does Big Data threaten privacy?",
+    "choices": [
+      "Because it only stores anonymous statistics",
+      "Because it gathers vast amounts of personal and even very private data",
+      "Because it never records any user activity",
+      "Because it deletes information immediately"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does the term 'surveillant assemblage' describe?",
+    "choices": [
+      "A single state‑run supercomputer",
+      "The combined network of different public and private actors collecting data",
+      "Only CCTV cameras in cities",
+      "A traditional phone‑tapping system"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why does the text say that participation in Big Data is often only 'superficially' voluntary?",
+    "choices": [
+      "Because people are physically forced to use social networks",
+      "Because there are no digital services available",
+      "Because refusing digital services can mean losing access to essential social or public functions",
+      "Because Big Data systems never ask for consent"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is an example of passive observation in the text?",
+    "choices": [
+      "Arresting someone before a crime is committed",
+      "Giving or denying loans based on a citizen score",
+      "Smart electricity meters that only record consumption data",
+      "Blocking Internet access to certain users"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a key difference between active observation and surveillance proper?",
+    "choices": [
+      "Active observation never collects data",
+      "Surveillance proper can be used to prevent planned actions, not just react afterwards",
+      "Active observation is always illegal",
+      "Surveillance proper never involves punishment"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to Proposition 3.2, what leads to 'forced participation' in Big Data surveillance?",
+    "choices": [
+      "Too many competing social networks",
+      "A lack of realistic alternatives to data‑intensive lifestyles and services",
+      "The complete absence of digital technology",
+      "Strict laws that ban all online tracking"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which statement BEST captures Proposition 3.3?",
+    "choices": [
+      "Surveillance is harmless as long as no law is broken.",
+      "Lack of privacy threatens freedom because data can be abused and people have a right not to be observed.",
+      "Only illegal surveillance is a problem for liberty.",
+      "Freedom is unrelated to whether people are being observed."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why is the argument 'if you have nothing to hide, you should not mind surveillance' considered flawed in the text?",
+    "choices": [
+      "Because surveillance never works in practice",
+      "Because everyone is a criminal",
+      "Because surveillance also affects lawful and harmless behaviour people still wish to keep private",
+      "Because surveillance is always anonymous"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How can Big Data threaten positive liberty according to the author?",
+    "choices": [
+      "By preventing any form of technological innovation",
+      "By making it impossible to have any goals in life",
+      "By making people constantly feel observed so they no longer act as their own masters",
+      "By forcing everyone to become politicians"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is one reason Big Data can threaten negative liberty even if data are not currently abused?",
+    "choices": [
+      "Because unused data automatically delete themselves",
+      "Because the mere possibility of future coercive use already creates a risk and form of domination",
+      "Because negative liberty ignores power relations",
+      "Because data is always encrypted"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following illustrates Big Data being treated as a public good issue in the text?",
+    "choices": [
+      "Only rich users can buy privacy",
+      "Each individual negotiates privacy alone with every platform",
+      "Government should help ensure people are not forced to give up privacy just to live a normal life",
+      "Companies fully self‑regulate privacy without any law"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What trade‑off does the conclusion highlight regarding Big Data?",
+    "choices": [
+      "Between using computers and using smartphones",
+      "Between economic and scientific benefits of Big Data and the protection of liberty and privacy",
+      "Between privacy and having any social life at all",
+      "Between hardware and software costs"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to the text, why must 'Big Brother’s gaze be averted'?",
+    "choices": [
+      "To stop all online services from working",
+      "To guarantee that businesses can keep innovating without limits",
+      "To ensure people can remain free and are not coerced or treated as objects under constant observation",
+      "To reduce the size of government budgets"
+    ],
+    "answer": 2
+  }
+]

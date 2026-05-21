@@ -1,0 +1,228 @@
+[
+  {
+    "question": "According to the article, what happened when the author tried to drive home without GPS?",
+    "choices": [
+      "He realised he had never really learned his way home.",
+      "He decided to take a shortcut to save time."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Efficient technology, according to the author, can…",
+    "choices": [
+      "help us learn more easily.",
+      "prevent us from learning."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The paragraph about GPT‑3 in the article was written…",
+    "choices": [
+      "after doing a lot of research online.",
+      "by artificial intelligence."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Students are cheating…",
+    "choices": [
+      "themselves by using AI to write their papers.",
+      "and committing plagiarism with AI."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In order to remember something, we need to…",
+    "choices": [
+      "be prepared to forget it.",
+      "repeat it many times."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Forgetting Curve is about forgetting things that…",
+    "choices": [
+      "are not remembered and repeated at regular intervals.",
+      "we have not mastered yet because we don’t have time."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "GPT‑3 needs to be used with caution because…",
+    "choices": [
+      "you can unknowingly commit plagiarism.",
+      "not everything it says is true."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which verb from the article means 'gradually reduce the strength or importance of something'?",
+    "choices": [
+      "erode",
+      "avoid",
+      "master",
+      "supplement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which noun from paragraph 2 means 'something that makes it more difficult for success'?",
+    "choices": [
+      "shortcut",
+      "obstacle",
+      "interval",
+      "algorithm"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which word from paragraph 2 means 'a way of saving time or effort, often with worse results'?",
+    "choices": [
+      "interval",
+      "legwork",
+      "shortcut",
+      "milestone"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which verb from paragraph 2 means 'remember ideas or information'?",
+    "choices": [
+      "retain",
+      "erode",
+      "avoid",
+      "supplement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which two‑word expression from paragraph 5 means 'a time when an important positive change happens'?",
+    "choices": [
+      "practice makes",
+      "high stakes",
+      "turning point",
+      "legwork duty"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which two‑word expression from paragraph 5 refers to 'hard, boring work'?",
+    "choices": [
+      "turning point",
+      "legwork duty",
+      "mental shortcut",
+      "anti‑plagiarism"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which verb from paragraph 5 means 'avoid accepting or dealing with something you should do'?",
+    "choices": [
+      "erode",
+      "master",
+      "duck",
+      "supplement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which verb from paragraph 7 means 'learn something so well you can do it very well'?",
+    "choices": [
+      "master",
+      "retain",
+      "erode",
+      "avoid"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which noun from paragraph 8 means 'a period of time between two events'?",
+    "choices": [
+      "shortcut",
+      "interval",
+      "algorithm",
+      "milestone"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which noun from paragraph 8 means 'a set of rules for solving problems that a computer uses'?",
+    "choices": [
+      "interval",
+      "legwork",
+      "algorithm",
+      "obstacle"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which two‑word phrasal verb from paragraph 9 means 'add something to something else to make it bigger or more satisfactory'?",
+    "choices": [
+      "duck out",
+      "top up",
+      "rely on",
+      "erode away"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which two‑word expression from paragraph 9 refers to 'a situation involving a lot of risk or serious consequences'?",
+    "choices": [
+      "mental shortcut",
+      "high stakes",
+      "turning point",
+      "hard work"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which two‑word expression from the subtitle means 'depend on'?",
+    "choices": [
+      "rely on",
+      "duck out",
+      "top up",
+      "turning point"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which two‑word expression from paragraph 4 means 'behave in the same bad way that someone else is behaving'?",
+    "choices": [
+      "follow suit",
+      "top up",
+      "turning point",
+      "make waves"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which two‑word expression from paragraph 5 means 'cause problems, usually by making suggestions or criticisms'?",
+    "choices": [
+      "do legwork",
+      "make waves",
+      "follow suit",
+      "duck out"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which three‑word expression from paragraph 7 means 'repeating an activity regularly makes you very good at it'?",
+    "choices": [
+      "do the legwork",
+      "top it up",
+      "practice makes perfect",
+      "make waves again"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which expression from paragraphs 5 and 8 means 'do the tiring or boring work as part of a job'?",
+    "choices": [
+      "do the legwork",
+      "follow suit",
+      "rely on tech",
+      "duck out"
+    ],
+    "answer": 0
+  }
+]

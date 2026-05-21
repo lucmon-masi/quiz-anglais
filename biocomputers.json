@@ -1,0 +1,252 @@
+[
+  {
+    "question": "What is the main idea of the first reading paragraph about Brainoware?",
+    "choices": [
+      "Scientists have abandoned biological approaches to computing.",
+      "Researchers have built a biocomputer using human brain tissue and electronics.",
+      "A new social network based on brain signals was launched.",
+      "Robots have fully replaced human brains in laboratories."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which word best completes: 'The merging of human and machine has taken another ____ forward'?",
+    "choices": [
+      "concept",
+      "recognition",
+      "advance",
+      "stage"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which word best completes: 'Bioengineers … have ____ laboratory-grown human brain tissue with microelectrodes'?",
+    "choices": [
+      "solely",
+      "combined",
+      "dubbed",
+      "utilizes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which word best completes: 'The scientists have ____ their creation Brainoware'?",
+    "choices": [
+      "dubbed",
+      "models",
+      "investigate",
+      "bundles"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brainoware is described as being in its embryonic ____ of development.",
+    "choices": [
+      "step",
+      "stage",
+      "concept",
+      "recognition"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which complex task can Brainoware already perform?",
+    "choices": [
+      "Financial forecasting",
+      "Autonomous driving",
+      "Voice recognition",
+      "Weather prediction"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does Dr Feng Guo hope Brainoware will help to do?",
+    "choices": [
+      "Replace all conventional computers completely",
+      "Advance AI technologies and reduce energy use",
+      "Eliminate the need for any training data",
+      "Stop research on silicon chips"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The text says Brainoware could mean AI hardware uses far less energy than systems based ____ on silicon chips.",
+    "choices": [
+      "evenly",
+      "roughly",
+      "solely",
+      "loosely"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In 'This is just proof‑of‑____ to show that we can do the job', which word completes the expression?",
+    "choices": [
+      "advance",
+      "concept",
+      "stage",
+      "principle"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The researchers said their Brainoware system utilizes what?",
+    "choices": [
+      "Only traditional microchips",
+      "Cloud‑based simulations of neurons",
+      "Organoids grown in a petri dish",
+      "Quantum dots"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In the second paragraph, organoids are described as artificially grown ____ of tissue and stem cells.",
+    "choices": [
+      "bundles",
+      "cures",
+      "concepts",
+      "steps"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Organoids are said to ____ an organ.",
+    "choices": [
+      "investigate",
+      "resemble",
+      "undertake",
+      "recognize"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Dr Guo says his team’s organoids are like mini‑brains with neurons ____ to those in the human brain.",
+    "choices": [
+      "dubbed",
+      "solely",
+      "akin",
+      "advance"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What do the researchers want to investigate next about Brainoware?",
+    "choices": [
+      "How to replace all existing computers immediately",
+      "How it can be adapted to undertake higher‑level tasks",
+      "How to remove all biological components from it",
+      "How to make it function without electricity"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The technology could one day be used to create improved ____ of the brain.",
+    "choices": [
+      "stages",
+      "proofs",
+      "bundles",
+      "models"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "According to the text, Brainoware might eventually help to develop ____ for neurological diseases.",
+    "choices": [
+      "cures",
+      "concepts",
+      "steps",
+      "bundles"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What major challenge do researchers face with Brainoware?",
+    "choices": [
+      "Keeping the living tissue alive over time",
+      "Finding enough silicon for the chips",
+      "Cooling the quantum processors",
+      "Scaling up battery capacity"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In the synonym match, which word is a synonym of 'merging'?",
+    "choices": [
+      "clumps",
+      "rudimentary",
+      "combining",
+      "tackle"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In the synonym match, which option corresponds to 'embryonic'?",
+    "choices": [
+      "only",
+      "rudimentary",
+      "evidence",
+      "similar"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In the synonym match, which word is a synonym of 'solely'?",
+    "choices": [
+      "only",
+      "intricate",
+      "look like",
+      "tackle"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In the synonym match, which option is a synonym of 'bundles'?",
+    "choices": [
+      "similar",
+      "clumps",
+      "evidence",
+      "therapies"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In the synonym match, which choice is closest in meaning to 'resemble'?",
+    "choices": [
+      "look like",
+      "combining",
+      "tackle",
+      "rudimentary"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In the synonym match, which option best matches 'cures'?",
+    "choices": [
+      "evidence",
+      "only",
+      "clumps",
+      "therapies"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "From the Neuralink video section, what is the general goal of devices like Neuralink’s brain chip?",
+    "choices": [
+      "To let people control computers or devices directly with their thoughts",
+      "To replace all smartphones with paper",
+      "To remove the need for any medical treatment",
+      "To record dreams for entertainment only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "According to the worksheet, rival companies carried out tests on which group?",
+    "choices": [
+      "Only healthy teenagers",
+      "Farm animals such as pigs and sheep",
+      "Primarily monkeys and other animals",
+      "Retired engineers"
+    ],
+    "answer": 2
+  }
+]

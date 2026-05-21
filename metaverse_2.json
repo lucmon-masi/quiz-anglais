@@ -1,0 +1,452 @@
+[
+  {
+    "question": "In the article, what is the metaverse mainly described as?",
+    "choices": [
+      "A single virtual reality game owned by one company",
+      "An interconnected network of persistent virtual worlds and experiences",
+      "A new type of smartphone operating system",
+      "A replacement for the entire physical world"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which technologies are presented as key building blocks of the metaverse?",
+    "choices": [
+      "Virtual reality, augmented reality and high‑speed networks",
+      "Fax machines and email",
+      "Radio broadcasting and television only",
+      "Satellite phones and SMS"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "According to the text, what can users typically do with avatars in the metaverse?",
+    "choices": [
+      "Control government elections",
+      "Represent themselves, move, interact and express identity in virtual spaces",
+      "Only read static documents",
+      "Only listen to music playlists"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which sector is highlighted as an early adopter of metaverse‑style environments?",
+    "choices": [
+      "Heavy manufacturing",
+      "Online gaming and virtual worlds",
+      "Oil and gas extraction",
+      "Traditional banking only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which potential benefit of the metaverse for work is mentioned?",
+    "choices": [
+      "Eliminating all meetings",
+      "Immersive remote collaboration and virtual offices",
+      "Stopping all business travel permanently by law",
+      "Removing the need for any digital tools"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What educational opportunity does the article associate with the metaverse?",
+    "choices": [
+      "Closing schools and universities",
+      "Interactive simulations and virtual classrooms for learners worldwide",
+      "Replacing teachers with printed manuals",
+      "Focusing only on multiple‑choice exams"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which economic feature is emphasised as part of metaverse platforms?",
+    "choices": [
+      "Zero‑sum competition with no trade",
+      "Virtual economies where users can buy, sell and create digital goods",
+      "Total ban on digital currencies",
+      "Only governments can own any assets"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The article notes that big technology companies see the metaverse as:",
+    "choices": [
+      "A small side project with no revenue",
+      "The next major computing platform and source of growth",
+      "A threat that should be avoided at all costs",
+      "A purely academic experiment"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What key risk about data is raised in the article?",
+    "choices": [
+      "Loss of all analogue photos",
+      "More intrusive data collection and surveillance in immersive environments",
+      "Complete disappearance of advertising",
+      "End of social networks"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What social concern does the text mention regarding time spent in the metaverse?",
+    "choices": [
+      "People might forget how to read",
+      "People could neglect real‑world relationships and responsibilities",
+      "People will stop using electricity",
+      "People will no longer need healthcare"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In the article, the term 'interoperability' refers to:",
+    "choices": [
+      "Using only one brand of headset",
+      "The ability to move identities and digital goods between different virtual worlds",
+      "Limiting users to a single platform",
+      "Blocking cross‑platform communication"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What regulatory or legal issue is discussed?",
+    "choices": [
+      "Whether avatars should pay physical taxes on virtual items",
+      "How existing laws on privacy, safety and content apply in virtual spaces",
+      "If countries should ban all online games",
+      "If paper contracts must be used inside VR"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following best captures the article’s overall tone towards the metaverse?",
+    "choices": [
+      "Completely utopian and uncritical",
+      "Entirely hostile and dismissive",
+      "Balanced: highlighting both opportunities and serious challenges",
+      "Indifferent and neutral with no clear position"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The expression 'a brave new world' in the title suggests that the metaverse is:",
+    "choices": [
+      "An old, familiar technology",
+      "Both exciting and potentially unsettling or risky",
+      "Already fully understood and controlled",
+      "Completely harmless entertainment"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which ethical question is raised about work in the metaverse?",
+    "choices": [
+      "Whether employees should be paid only in crypto‑tokens",
+      "How to protect workers from constant monitoring and performance tracking",
+      "If physical offices should be demolished",
+      "Whether people should stop studying programming"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In the article, 'immersive' most nearly means:",
+    "choices": [
+      "Lightweight and superficial",
+      "Creating a strong sense of being inside the virtual environment",
+      "Completely invisible to users",
+      "Limited to text‑based communication"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The article suggests that digital divides may:",
+    "choices": [
+      "Disappear completely thanks to headsets",
+      "Become worse if only rich users can access high‑quality metaverse experiences",
+      "Have no relation to access to technology",
+      "Be solved automatically by online advertising"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which environmental concern about the metaverse is mentioned?",
+    "choices": [
+      "Headsets are impossible to recycle",
+      "Data centres and networks may increase energy consumption and emissions",
+      "Virtual meetings always require plane travel",
+      "3D graphics remove the need for electricity"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to the text, what might help ensure that the metaverse develops responsibly?",
+    "choices": [
+      "Leaving all decisions to a single large corporation",
+      "Open standards, regulation, and collaboration between governments, companies and users",
+      "Banning all forms of encryption",
+      "Stopping research on privacy tools"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Overall, the article concludes that the metaverse is:",
+    "choices": [
+      "Inevitable and entirely positive",
+      "Unlikely to have any impact on society",
+      "Full of promise but dependent on how humans design and govern it",
+      "Only relevant for children and gamers"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Where did the term \"Metaverse\" originally come from according to the article?",
+    "choices": [
+      "A marketing campaign by a tech company in 2015",
+      "Neal Stephenson's 1992 science fiction novel Snow Crash",
+      "A scientific paper on virtual reality in the 1980s",
+      "A European Union policy document"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In Snow Crash, how is the Metaverse mainly portrayed?",
+    "choices": [
+      "As a 2D text chat with no graphics",
+      "As a vast virtual realm mirroring the physical world where humans appear as avatars",
+      "As a purely single‑player simulation",
+      "As a simple augmented‑reality phone app"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which early online worlds are mentioned as being inspired by the Metaverse idea?",
+    "choices": [
+      "Second Life and Active Worlds",
+      "TikTok and Instagram",
+      "Minecraft and WhatsApp",
+      "Only Roblox"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How does the article define Extended Reality (XR) in relation to the Metaverse?",
+    "choices": [
+      "XR and the Metaverse are exactly the same thing",
+      "XR is a continuum of AR, VR and MR that already exists, while the Metaverse is an aspirational vision built on top of it",
+      "XR only refers to smartphone apps",
+      "XR is limited to industrial design tools"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which description of Virtual Reality (VR) matches the article?",
+    "choices": [
+      "VR only shows 2D videos on a flat screen",
+      "VR places an avatar in a digitally crafted 3D world, creating the illusion of being elsewhere",
+      "VR only overlays text on the real world",
+      "VR cannot track user movement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How is Augmented Reality (AR) characterised in the text?",
+    "choices": [
+      "It completely blocks out the physical world",
+      "It uses relatively simple hardware such as glasses to overlay digital content onto the real world",
+      "It requires full‑body suits",
+      "It is only used for military training"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is Mixed Reality (MR) according to the article?",
+    "choices": [
+      "A slow version of VR",
+      "A stripped‑down form of AR",
+      "A combination of VR and AR where users can interact with virtual objects in a 3D environment anchored to the real world",
+      "A text‑only chat interface"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which is NOT one of the three main aspects that distinguish the modern Metaverse from earlier virtual worlds?",
+    "choices": [
+      "Advances in deep learning and generative models",
+      "Always‑connected mobile access and huge platforms such as Roblox",
+      "Integration with virtual currencies and coding inside the Metaverse",
+      "Complete removal of all commercial activity and advertising"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How have deep learning and generative models changed the Metaverse experience according to the text?",
+    "choices": [
+      "They have made graphics less realistic",
+      "They have improved vision and language recognition and enabled more immersive environments",
+      "They have removed the need for avatars",
+      "They are only used for background music"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What role do mobile devices play in the modern Metaverse as described in the article?",
+    "choices": [
+      "They are no longer used at all",
+      "They make access possible anytime and anywhere thanks to constant connectivity",
+      "They are only used for voice calls",
+      "They replace all head‑mounted displays"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In the examples given, which platform hosts around 50 million games and billions of hours of user engagement?",
+    "choices": [
+      "Second Life",
+      "Fortnite",
+      "Roblox",
+      "World of Warcraft"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is one consequence of high engagement times on platforms like Roblox mentioned in the article?",
+    "choices": [
+      "Falling revenues for content creators",
+      "Lower digital advertising sales",
+      "Higher revenues for content creators and increased digital advertising income",
+      "Strict bans on user‑generated content"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How does the article describe the economic link between the Metaverse and the physical world?",
+    "choices": [
+      "There is no economic link at all",
+      "Virtual currencies and DeFi connect virtual economies to real‑world value",
+      "Only physical cash can be used in virtual worlds",
+      "All transactions are hypothetical and cannot be converted"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is cited as an example of in‑platform virtual currency?",
+    "choices": [
+      "Robux in Roblox and V‑Bucks in Fortnite",
+      "Only Bitcoin",
+      "Only euros and dollars",
+      "Physical gift cards"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What function do Non‑Fungible Tokens (NFTs) serve in the Metaverse according to the paper?",
+    "choices": [
+      "They slow down transactions and reduce security",
+      "They are used only for voting in elections",
+      "They add uniqueness and security to digital assets such as virtual real estate or art",
+      "They are limited to storing passwords"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a 'digital twin' in the context of this article?",
+    "choices": [
+      "A second physical copy of a device",
+      "A virtual counterpart of a physical asset or process used for monitoring and simulation",
+      "A clone account on social media",
+      "A back‑up power system for data centres"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How is a 'digital me' defined in the article?",
+    "choices": [
+      "A generic avatar with no link to the user",
+      "A self‑aware avatar representing the owner's values, experiences and characteristics in the Metaverse",
+      "A bot used only for customer service",
+      "A password‑reset identity"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What research method does the paper use to explore perceptions of the Metaverse?",
+    "choices": [
+      "Only lab experiments with VR headsets",
+      "A global survey combined with literature and bibliometric analysis",
+      "Purely fictional storytelling with no data",
+      "A single interview with a CEO"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How do most survey respondents feel about the Metaverse according to the study?",
+    "choices": [
+      "Completely pessimistic and opposed to it",
+      "Totally uncritical and utopian",
+      "Cautiously optimistic: interested but aware of major risks",
+      "Completely indifferent"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which themes are most often associated with the Metaverse in the bibliometric analysis mentioned?",
+    "choices": [
+      "Cooking and gardening",
+      "Space travel and astronomy only",
+      "Ethics, artificial intelligence, data governance and privacy",
+      "Sports and nutrition"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What governance challenge for the Metaverse does the article highlight?",
+    "choices": [
+      "Choosing a single global language for all users",
+      "Deciding how multiple stakeholders can share responsibility for rules, safety and standards",
+      "Banning all forms of encryption",
+      "Prohibiting user‑generated content"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "According to the article, why is interoperability an important technical goal?",
+    "choices": [
+      "It forces all users to stay on one platform",
+      "It allows avatars and digital assets to move across different virtual worlds",
+      "It removes the need for any regulation",
+      "It blocks competition between companies"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which user protection concern is specifically raised regarding immersive tracking?",
+    "choices": [
+      "Only battery life of headsets",
+      "Fine‑grained behavioural and biometric data could be exploited for manipulation or discrimination",
+      "The risk of losing physical wallets",
+      "Too many different screen resolutions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What environmental issue related to the Metaverse is discussed?",
+    "choices": [
+      "Virtual objects require physical storage in warehouses",
+      "Data centres, blockchain and high‑bandwidth networks can raise energy use and emissions",
+      "Users must print all virtual documents on paper",
+      "Headsets run only on fossil fuels"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does the article suggest about accessibility and the digital divide?",
+    "choices": [
+      "The Metaverse will automatically solve all inequality issues",
+      "High hardware and connectivity requirements may exclude people with fewer resources",
+      "Only older adults will benefit from the Metaverse",
+      "Rural areas will always have better access than cities"
+    ],
+    "answer": 1
+  }
+]

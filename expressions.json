@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which expression is used for stating an opinion?",
+    "choices": [
+      "Do you agree?",
+      "In my opinion...",
+      "Can I add something here?",
+      "Let's drop it."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which expression is used for asking for an opinion?",
+    "choices": [
+      "What do you think?",
+      "That's for sure.",
+      "I beg to differ.",
+      "Exactly."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which phrase means 'as I see the situation'?",
+    "choices": [
+      "The way I see it...",
+      "No doubt about it.",
+      "Let's move on.",
+      "Me neither."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is used to express strong agreement?",
+    "choices": [
+      "I'm not so sure about that.",
+      "I agree with you 100 percent.",
+      "Not necessarily.",
+      "Let's drop it."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which expression shows complete agreement?",
+    "choices": [
+      "I couldn't agree with you more.",
+      "I don't think so.",
+      "Sorry to interrupt, but...",
+      "What are your thoughts on all of this?"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which phrase is used to agree with a negative statement?",
+    "choices": [
+      "Absolutely.",
+      "You have a point there.",
+      "Me neither.",
+      "No way."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which expression is a weak form of agreement?",
+    "choices": [
+      "That's so true.",
+      "I suppose so.",
+      "You're absolutely right.",
+      "No doubt about it."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which phrase suggests partial or moderate agreement?",
+    "choices": [
+      "You have a point there.",
+      "No way.",
+      "I totally disagree.",
+      "Let's just move on, shall we?"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which expression is used for expressing disagreement?",
+    "choices": [
+      "Exactly.",
+      "That's exactly how I feel.",
+      "I don't think so.",
+      "For sure."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which phrase expresses strong disagreement?",
+    "choices": [
+      "I guess so.",
+      "No way.",
+      "You have a point there.",
+      "Absolutely."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is another strong way to disagree?",
+    "choices": [
+      "I'm afraid I disagree.",
+      "What do you think?",
+      "That's so true.",
+      "Can I add something here?"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which phrase means 'I have the opposite opinion'?",
+    "choices": [
+      "I'd say the exact opposite.",
+      "That's exactly how I feel.",
+      "If you ask me...",
+      "Do you agree?"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which expression suggests that something may be true in some cases but not all?",
+    "choices": [
+      "That's for sure.",
+      "Not necessarily.",
+      "Absolutely.",
+      "No doubt about it."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which phrase questions the truth of a general statement?",
+    "choices": [
+      "That's not always true.",
+      "Exactly.",
+      "I was just going to say that.",
+      "As far as I'm concerned..."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which expression means 'I am not convinced'?",
+    "choices": [
+      "I'm not so sure about that.",
+      "You're absolutely right.",
+      "I couldn't agree with you more.",
+      "What are your thoughts on all of this?"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which phrase is appropriate when you want to interrupt politely?",
+    "choices": [
+      "Let's drop it.",
+      "Sorry to interrupt, but...",
+      "I totally disagree.",
+      "Me neither."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which expression can be used to join a conversation politely?",
+    "choices": [
+      "Can I add something here?",
+      "No doubt about it.",
+      "That's not always the case.",
+      "I beg to differ."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which phrase is used after you interrupted someone by accident?",
+    "choices": [
+      "You didn't let me finish.",
+      "Sorry, go ahead.",
+      "I suppose so.",
+      "No way."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which phrase can be used by the person who was interrupted?",
+    "choices": [
+      "Sorry, you were saying...",
+      "You didn't let me finish.",
+      "Let's move on, shall we?",
+      "Do you agree?"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which expression is used to settle an argument without resolving it?",
+    "choices": [
+      "Let's just move on, shall we?",
+      "I agree with you 100 percent.",
+      "If you want my honest opinion...",
+      "What do you think?"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which phrase means both people keep their different opinions and stop arguing?",
+    "choices": [
+      "Let's drop it.",
+      "Let's agree to disagree.",
+      "I beg to differ.",
+      "Exactly."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which expression introduces a personal point of view?",
+    "choices": [
+      "As far as I'm concerned...",
+      "Do you have anything to say about this?",
+      "No way.",
+      "Me neither."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which expression asks someone directly whether they share the same opinion?",
+    "choices": [
+      "Do you agree?",
+      "I was just going to say that.",
+      "That's for sure.",
+      "No, I'm not so sure about that."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which phrase is best used when you want to say someone else is correct?",
+    "choices": [
+      "You're absolutely right.",
+      "Not necessarily.",
+      "I don't think so.",
+      "If I might add something..."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which phrase is used to strongly confirm what another person said?",
+    "choices": [
+      "That's so true.",
+      "I totally disagree.",
+      "Let's drop it.",
+      "What's your idea?"
+    ],
+    "answer": 0
+  }
+]

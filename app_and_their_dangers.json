@@ -1,0 +1,138 @@
+[
+  {
+    "question": "The 'Ghost ad' campaign was characterized by its ability to bypass initial security screenings by behaving legitimately upon its first upload to the store.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The threat posed by these applications is strictly limited to hardware performance issues, such as battery depletion and processing delays.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The 'openness' of the Android platform is described as a double-edged sword that provides flexibility for developers but also creates security vulnerabilities.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "According to Brandon Amiker, the integration of Artificial Intelligence in development has significantly increased the complexity required to publish an app on Google Play.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "One of the malicious apps reached such a high level of popularity that it became the second most downloaded free tool on the entire Google Store.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The experts suggest that 'top-rated' status is a reliable metric for verifying an application's safety, as Google’s bouncers thoroughly vet these high-performing apps.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The process of 'remote code implementation' is mentioned as a method used by developers to alter the functionality of an app after it has already been installed on a user's device.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The cybersecurity experts confirm that although the 'Ghost ad' campaign was successful, Google has now successfully eliminated all traces of these specific malicious applications.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Match 'To cause havoc' with the correct definition.",
+    "choices": [
+      "To escape a system of control or inspection without being noticed.",
+      "Feeling or showing caution about possible dangers or problems.",
+      "To officially cancel or withdraw a power or a permission.",
+      "To cause great confusion, damage, or chaos.",
+      "The quality of being more merciful or tolerant than expected; lack of strictness.",
+      "To surreptitiously move data from a computer or network."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Match 'To exfiltrate' with the correct definition.",
+    "choices": [
+      "To escape a system of control or inspection without being noticed.",
+      "Feeling or showing caution about possible dangers or problems.",
+      "To officially cancel or withdraw a power or a permission.",
+      "To cause great confusion, damage, or chaos.",
+      "The quality of being more merciful or tolerant than expected; lack of strictness.",
+      "To surreptitiously move data from a computer or network."
+    ],
+    "answer": 5
+  },
+  {
+    "question": "Match 'Leniency' with the correct definition.",
+    "choices": [
+      "To escape a system of control or inspection without being noticed.",
+      "Feeling or showing caution about possible dangers or problems.",
+      "To officially cancel or withdraw a power or a permission.",
+      "To cause great confusion, damage, or chaos.",
+      "The quality of being more merciful or tolerant than expected; lack of strictness.",
+      "To surreptitiously move data from a computer or network."
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Match 'To slip through the cracks' with the correct definition.",
+    "choices": [
+      "To escape a system of control or inspection without being noticed.",
+      "Feeling or showing caution about possible dangers or problems.",
+      "To officially cancel or withdraw a power or a permission.",
+      "To cause great confusion, damage, or chaos.",
+      "The quality of being more merciful or tolerant than expected; lack of strictness.",
+      "To surreptitiously move data from a computer or network."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Match 'Wary' with the correct definition.",
+    "choices": [
+      "To escape a system of control or inspection without being noticed.",
+      "Feeling or showing caution about possible dangers or problems.",
+      "To officially cancel or withdraw a power or a permission.",
+      "To cause great confusion, damage, or chaos.",
+      "The quality of being more merciful or tolerant than expected; lack of strictness.",
+      "To surreptitiously move data from a computer or network."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Match 'To revoke' with the correct definition.",
+    "choices": [
+      "To escape a system of control or inspection without being noticed.",
+      "Feeling or showing caution about possible dangers or problems.",
+      "To officially cancel or withdraw a power or a permission.",
+      "To cause great confusion, damage, or chaos.",
+      "The quality of being more merciful or tolerant than expected; lack of strictness.",
+      "To surreptitiously move data from a computer or network."
+    ],
+    "answer": 2
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "question": "What year did Nathalie's father go missing according to the video?",
+    "choices": [
+      "1990",
+      "1988",
+      "1985",
+      "1995"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the main focus of Trace Labs?",
+    "choices": [
+      "To provide legal assistance",
+      "To find missing people",
+      "To conduct technology workshops",
+      "To educate on cybersecurity"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What method does Trace Labs use to engage participants?",
+    "choices": [
+      "Online courses",
+      "A game-like format",
+      "Traditional lectures",
+      "One-on-one mentoring"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who is Rob Sell?",
+    "choices": [
+      "A police officer",
+      "A computer security professional",
+      "A software engineer",
+      "A journalist"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does OSINT stand for in this course?",
+    "choices": [
+      "Open-source intelligence gathering",
+      "Organized search information network",
+      "Online security intelligence",
+      "Open-source internet tracking"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What type of data do participants collect during Trace Labs events?",
+    "choices": [
+      "Financial records",
+      "Personal diaries",
+      "Online activity clues",
+      "Academic records"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How does Rob Sell view digital footprints in missing-person cases?",
+    "choices": [
+      "They are irrelevant",
+      "They can complicate searches",
+      "They are useful for locating individuals",
+      "They should be avoided"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What has Trace Labs provided to law enforcement over the years?",
+    "choices": [
+      "Financial support",
+      "Data on missing persons' cases",
+      "Legal representation",
+      "Psychological counseling"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What potential consequence is mentioned regarding people who go missing?",
+    "choices": [
+      "They are often found immediately",
+      "They may end up in human trafficking",
+      "They usually travel abroad",
+      "They are frequently in contact with family"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What emotional impact did Trace Labs have on Nathalie?",
+    "choices": [
+      "She felt indifferent",
+      "She was touched by their efforts",
+      "She was frustrated with the process",
+      "She didn't believe it would help"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In the reading, which word best completes: 'From ______ videos of police violence in Iran to satellite images showing the devastation of Gaza...'?",
+    "choices": [
+      "unearthed",
+      "suspicious",
+      "meaningful",
+      "made up"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which word correctly fills the gap: 'public ______ like business registrations, satellite or flight data'?",
+    "choices": [
+      "testimonies",
+      "records",
+      "dataset",
+      "insights"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which term best completes: 'to extract ______ insights from the data you have collected'?",
+    "choices": [
+      "firsthand",
+      "eyewitness",
+      "meaningful",
+      "suspicious"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Open-source techniques are utilized in several professions like ______ to gather information on suspects or potential threats.",
+    "choices": [
+      "law enforcement",
+      "eyewitness",
+      "dataset",
+      "records"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which word fits: 'who is behind a ______ company'?",
+    "choices": [
+      "made up",
+      "firsthand",
+      "unearthed",
+      "stuck"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which word best completes: 'Next, start searching… ______, refine and narrow down your searches.'?",
+    "choices": [
+      "unfolded",
+      "subsequently",
+      "stuck",
+      "unearthed"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which word correctly fills: 'Any digital information can be ______.'?",
+    "choices": [
+      "made up",
+      "stuck",
+      "unearthed",
+      "firsthand"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which word completes: 'save and archive your digital ______ in a centralized location as a backup'?",
+    "choices": [
+      "insights",
+      "records",
+      "testimonies",
+      "dataset"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which word fits: 'for presenting them in court ______ or in media reports'?",
+    "choices": [
+      "extent",
+      "eyewitness",
+      "made up",
+      "testimonies"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Comparing before and after satellite imagery can give ______ into the ______ of damage to key infrastructure.",
+    "choices": [
+      "records / testimonies",
+      "insights / extent",
+      "dataset / eyewitness",
+      "unearthed / meaningful"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which word completes: 'eyewitnesses providing ______ accounts of an incident'?",
+    "choices": [
+      "firsthand",
+      "suspicious",
+      "made up",
+      "unearthed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which word fits: 'might give insights into how the incident ______'?",
+    "choices": [
+      "stuck",
+      "unfolded",
+      "unearthed",
+      "subsequently"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which word completes: 'There is so much more information that can be ______ about any given subject.'?",
+    "choices": [
+      "unfolded",
+      "eyewitnessed",
+      "unearthed",
+      "stuck"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which word best fills: 'If you are ______, look for alternatives.'?",
+    "choices": [
+      "firsthand",
+      "suspicious",
+      "meaningful",
+      "subsequently"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In the Google Maps case, what suspicious action did the images show?",
+    "choices": [
+      "A man painting graffiti on a wall",
+      "A man hunched over a car, loading a bulky white sack into the boot",
+      "A group of tourists taking photos",
+      "A police officer writing a ticket"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where were the suspicious Google Street View images captured?",
+    "choices": [
+      "In central Madrid",
+      "In a village in Cuba",
+      "On a street in the hamlet of Tajueco in northern Spain",
+      "At a busy motorway service station"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What crime were the Spanish police investigating in connection with the Google Maps images?",
+    "choices": [
+      "A bank robbery",
+      "The disappearance and suspected murder of a Cuban national",
+      "A cyber‑attack on a hospital",
+      "A large‑scale fraud case"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What had made the missing man’s relative suspicious before contacting the police?",
+    "choices": [
+      "The man stopped using social media but was still calling regularly",
+      "The man sent texts saying he had met another woman and was leaving Spain, which did not seem like him",
+      "The man announced a new job in another country",
+      "The man closed his bank account"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How did police describe the role of Google Maps images in solving the case?",
+    "choices": [
+      "They were the only decisive evidence in court",
+      "They were confusing and not useful",
+      "They were one of the clues that helped detect a vehicle possibly used in the crime",
+      "They led directly to a confession by the suspect"
+    ],
+    "answer": 2
+  }
+]
